@@ -6,6 +6,7 @@
 
 ### xDroidOSS Pixel v13.0.30 (09-02-2023):
 ```
+- Feb 2023 security patch
 - Increase product partition size to 3GB 
 - Drop debug.hwui.use_buffer_age (fixed lag)
 - Update multiple vibration strength levels overlay for 13
