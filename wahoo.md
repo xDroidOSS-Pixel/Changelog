@@ -20,6 +20,7 @@
 ### Note:
 - This build of xDroidOSS Pixel Unofficial requires the new partition table to be set up before flashing
 - Savety net passed by default
+- User build type
 - Clean flash always be recomended
 
 ### Full Credit:
