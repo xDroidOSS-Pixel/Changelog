@@ -1,2 +1,2 @@
 # Changelog
-DEvice changelog for relese build
+Device changelog for relese build
