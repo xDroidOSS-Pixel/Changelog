@@ -18,8 +18,13 @@
 ```
 ### Note
 - This build of xDroidOSS Pixel Unofficial requires the new partition table to be set up before flashing
-- Savety net passed by default, all credit goes to [**Dyneteve**](https://github.com/Dyneteve)
+- Savety net passed by default
 - Clean flash always be recomended
 
 ### Full Credit:
 * [**xDroidOSS (mnmlist)**](https://github.com/xdroid-oss)
+
+### Special thanks:
+* [**Dyneteve**](https://github.com/Dyneteve)
+* [**Pixelboot**](https://github.com/PixelBoot)
+* [**Julius Ronald Christanto**](https://github.com/jrjmt)
