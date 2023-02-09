@@ -4,7 +4,7 @@
 
 ## Changelog: Taimen & Wallaye
 
-### xDroidOSS Pixel v13.0.30 (09-02-2023)
+### xDroidOSS Pixel v13.0.30 (09-02-2023):
 ```
 - Increase product partition size to 3GB 
 - Drop debug.hwui.use_buffer_age (fixed lag)
@@ -16,7 +16,7 @@
 - Fixup switch to xz ramdisk and save some space
 - Fixed google camera autoupdate
 ```
-### Note
+### Note:
 - This build of xDroidOSS Pixel Unofficial requires the new partition table to be set up before flashing
 - Savety net passed by default
 - Clean flash always be recomended
