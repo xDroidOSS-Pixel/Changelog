@@ -4,20 +4,32 @@
 
 ## Changelog: Blueline & Crosshatch
 
-### xDroidOSS Pixel v13.0.30 (11-02-2023):
+### xDroidOSS Pixel v13.0.41 (18-04-2023):
 ```
-- February 2023 security patch
+- April 2023 security patch
 - Include pixel-framework 
-- Re-fix kernel issue heat
-- Update multiple vibration strength levels overlay for 13
-- Fixed battery widget
-- Fixed google camera autoupdate
+- Re-new Device Tree + Kernel Prebuilt
+- Add Boost Framework
 - Safety net passed by default
+- Now Playing patch April 2023
+- Add ViMusic Prebuilt
 - etc....
 ```
 ### Note:
-- This build of xDroidOSS Pixel Unofficial requires clean flash if you from another rom A12/12L/13/QPR1
+- This build of xDroidOSS Pixel Unofficial requires clean flash if you from another rom A12/12L/13/QPR1/QPR2
 - User build type
+
+### Installation Guide:
+
+First Time Install / Clean Flash from Another ROM
+
+- Reboot to Fastboot
+- Flash boot.img
+- Go to Recovery Mode
+- Go to "Apply Update - Adb Sideload"
+- Flash the ROM
+- FORMAT DATA . (Requires full backup of internal storage) ignore any error
+- Reboot to System
 
 ### Full Credit:
 * [**xDroidOSS (mnmlist)**](https://github.com/xdroid-oss)
