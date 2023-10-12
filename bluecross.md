@@ -1,20 +1,16 @@
 ![banner](https://github.com/xDroidOSS-Pixel/Changelog/raw/main/banner.png)
 
-<h1 align="center"> xDroidOSS Pixel Unofficial </h1> 
+<h1 align="center"> xdroidOSS Pixel Unofficial </h1> 
 
 ## Changelog: Blueline & Crosshatch
 
-### xdroidOSS Pixel v13.0.49 (14-05-2023):
+### xdroidOSS Pixel v13.0.82 (12-10-2023):
 ```
-- May 2023 security patch
-- Fixed Microphone when video calls in Whatsapp, Telegram, etc
-- Re-improvement Kernel
-- Re-improvement Source
-- Safety net passed by default
-- Now Playing patch May 2023
+- Sept 2023 security patch
+- Rebase All Source include Rom, Device Tree and Kernel Tree. Check yourself..
 ```
 ### Note:
-- This build of xDroidOSS Pixel Unofficial requires clean flash if you from another rom A12/12L/13/QPR1/QPR2
+- This build of xdroidOSS Pixel Unofficial requires clean flash if you from another rom A12/12L/13/QPR1/QPR2
 - User build type
 
 ### Installation Guide:
@@ -39,3 +35,5 @@ First Time Install / Clean Flash from Another ROM
 * [**Asriadi Rahim**](https://github.com/asriadirahim)
 * [**Dhinesh # Ëxøñ #**](https://github.com/cool585)
 * [**mattDev0**](https://github.com/mattDev0)
+* [**Barry Allen**](https://github.com/wh0dat)
+* [**Nguyen Huu Huy**](https://github.com/nhuuhuy634)
